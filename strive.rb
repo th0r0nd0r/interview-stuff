@@ -1,4 +1,4 @@
-## This works better than what they were asking for.  But they want it to only count as a header if the line starts with hashtags (not specified in instructions)
+# this was my initial pass at a solution.  Forgot to grab my final one.
 
 def markdownparser(markdown)
   arr = markdown.split(" ")
